@@ -1,5 +1,8 @@
 # Bootstrap Lab - Yearlong 2019/20
   
+  
+__Don't forget to FORK first! (and then clone)__  
+  
 ### Part 1: 
 1. Create a new file and call it "exercise.html".
 2. Create a table layout using a bootstrap grid that includes 3 types of your favorite creatures.  
